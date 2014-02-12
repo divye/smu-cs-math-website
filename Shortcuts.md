@@ -15,7 +15,7 @@ Linux
 
 Chrome
 =
-
+'Alt' + 'F4' Will close your Chrome
 
 
 Firefox
