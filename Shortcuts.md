@@ -1,7 +1,7 @@
 OSX
 =
 
-`cmd` + `spacebar` Will open the spotlight search bar
+`CMD` + `Spacebar` Will open the spotlight search bar
 
 
 Windows
